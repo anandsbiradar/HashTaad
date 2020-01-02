@@ -23,6 +23,18 @@ URL For searched are
 * On initial application start, if database is empty, then data migration is initiated, inserting data records to DB(Data is taken from the input file given by you).
 * Implemented ORM Mongoose for data modeling in the BackEnd.
 
+## Table Schema
+    state: String,
+    stateCode:Number,
+    district :{
+        name: String,
+        districtCode: Number,
+        city :{
+            town:String,
+            urbanStatus: String,
+        }
+    }
+
 ## Technology
 
 * Express
