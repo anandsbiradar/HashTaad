@@ -43,5 +43,3 @@ URL For searched are
 Please feel free to contact me for any queries.
 
 Anand Biradar
-anandsbiradar@gmail.com
-+91 9738604767
